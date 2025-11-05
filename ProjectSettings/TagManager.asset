@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gato
+  - Enemy
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - terreno
+  - solid object
+  - objetos iteractivos
+  - personajes
+  - gato
+  - npc
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: terreno
+    uniqueID: 2732379651
+    locked: 0
+  - name: caminos
+    uniqueID: 2382639979
+    locked: 0
+  - name: gato
+    uniqueID: 3694870949
+    locked: 0
+  - name: arboles
+    uniqueID: 4233086319
+    locked: 0
+  - name: casas
+    uniqueID: 3897775527
+    locked: 0
+  - name: objetos
+    uniqueID: 147108809
+    locked: 0
+  - name: personajes
+    uniqueID: 1325923401
+    locked: 0
