@@ -150,7 +150,7 @@ Aunque actualmente no planeo continuar el desarrollo, considero que **Portal’s
 ## Descarga y prueba
 
 Puedes probar el juego descargando el ejecutable aquí:  
-[**Descargar Portal’s Cat (.zip)**](https://drive.google.com/...)  
+**[Descargar Portal’s Cat – Versión Final (.zip)](https://github.com/irene2606/PortalsCat/releases/latest)**   
 
 ---
 
