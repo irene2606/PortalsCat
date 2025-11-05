@@ -1,7 +1,7 @@
-# 🪄 Portal’s Cat
+# Portal’s Cat ✨🐈‍⬛
 
 **Autora:** Irene Paniagua Rodríguez  
-**Asignatura:** Sistemas Multimedia  
+**Asignatura:** Sistemas Multimedia (2024)
 **Tipo de proyecto:** Prototipo de videojuego 2D de aventura y exploración  
 **Plataforma:** PC (Windows 64 bits)  
 **Motor:** Unity  
@@ -35,14 +35,15 @@ El juego combina elementos de **exploración, combate, diálogo y puntuación**,
 
 ## Elementos implementados
 
-✅ Dos niveles funcionales (mundo pacífico y mundo hostil)  
-✅ Gato con aparición aleatoria  
-✅ Un tipo de enemigo funcional  
-✅ Sistema de combate y puntos  
-✅ Diálogos con NPCs  
-✅ Sonido ambiental  
-✅ Animaciones completas  
-✅ Interfaz con temporizador y puntuación  
+- Dos niveles funcionales (pacífico y hostil).
+- Posición aleatoria del gato en el mapa.
+- Enemigo tipo slime con comportamiento funcional.
+- Sistema de combate y puntuación basado en tiempo.
+- Diálogos básicos con NPCs.
+- Sonido ambiental.
+- Animaciones para personajes.
+- Interfaz con temporizador, puntuación y controles visuales.
+
 
 ---
 ## Explicaciones y observaciones
@@ -66,13 +67,13 @@ El juego combina elementos de **exploración, combate, diálogo y puntuación**,
 
 ## Elementos no implementados (aún)
 
-🚫 Misiones completas de los NPCs (solo diálogos básicos)  
-🚫 Efectos de sonido para ataques y acciones  
-🚫 Sistema de energía del jugador  
-🚫 Tienda para cambiar la apariencia del gato  
-🚫 Radar del mundo hostil  
-🚫 Puntos adicionales por derrotar enemigos  
-🚫 Generación aleatoria completa de mapas  
+- Misiones completas de los NPCs (solo diálogos básicos)
+- Efectos de sonido para ataques y acciones
+- Sistema de energía del jugador
+- Tienda para cambiar la apariencia del gato
+- Radar del mundo hostil
+- Puntos adicionales por derrotar enemigos
+- Generación aleatoria completa de mapas  
 
 ---
 
@@ -158,7 +159,7 @@ Puedes probar el juego descargando el ejecutable aquí:
 > El contenido no puede ser reutilizado, modificado ni distribuido.  
 > Los sprites, tilesets y demás recursos visuales pertenecen a sus respectivos autores, citados en este documento.
 
-
+✨🧙🏼‍♂️✨
 ---
 
 © 2025 Irene Paniagua Rodríguez. Todos los derechos reservados.
