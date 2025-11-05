@@ -142,8 +142,6 @@ Aunque actualmente no planeo continuar el desarrollo, considero que **Portal’s
 ## Documentación adicional
 
 - [Memoria del proyecto (PDF)](./GDD-VersionFinal_IrenePaniagua.pdf)
- 
-- [Presentación (PDF)](./Presentacion_PortalsCat.pdf)  
 
 ---
 
