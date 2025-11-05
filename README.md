@@ -141,7 +141,8 @@ Aunque actualmente no planeo continuar el desarrollo, considero que **Portal’s
 
 ## Documentación adicional
 
-- [Memoria del proyecto (PDF)](./Memoria_PortalsCat.pdf)  
+- [Memoria del proyecto (PDF)](./GDD-VersionFinal_IrenePaniagua.pdf)
+ 
 - [Presentación (PDF)](./Presentacion_PortalsCat.pdf)  
 
 ---
@@ -150,7 +151,6 @@ Aunque actualmente no planeo continuar el desarrollo, considero que **Portal’s
 
 Puedes probar el juego descargando el ejecutable aquí:  
 [**Descargar Portal’s Cat (.zip)**](https://drive.google.com/...)  
-*(enlace de Google Drive o Itch.io, según donde lo subas)*
 
 ---
 
